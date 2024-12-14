@@ -21,6 +21,6 @@
 - ### Deployment
   - ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
 
-**Design From Figma Community**
+**Design by Figma Community**
 
 ![The Box Design Image](https://github.com/mahmoud-abuyoussef/The_Box/blob/main/design/The_Box.png)
