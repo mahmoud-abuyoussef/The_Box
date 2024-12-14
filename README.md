@@ -1,6 +1,6 @@
 # The Box
 
-## [Demo]()
+## [Demo](https://mahmoud-abuyoussef.github.io/The_Box/)
 
 ## Tech Stack
 
@@ -23,4 +23,4 @@
 
 **Design From Figma Community**
 
-![]()
+![The Box Design Image](https://github.com/mahmoud-abuyoussef/The_Box/blob/main/design/The_Box.png)
