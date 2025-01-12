@@ -124,13 +124,10 @@ header nav ul li:last-child a {
   header nav {
     position: relative;
   }
-  header nav label img {
+  header nav img {
     cursor: pointer;
   }
-  header nav input {
-    appearance: none;
-  }
-  header nav input:checked + ul {
+  ul.isopen {
     display: block;
   }
   header nav ul {
